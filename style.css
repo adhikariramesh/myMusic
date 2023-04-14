@@ -111,6 +111,7 @@ p{
     font-size: 30px;
     font-weight: bold;
     cursor: pointer;
+    display:none;
 }
 .display-none{
     transition: all 1s ease-in-out;
