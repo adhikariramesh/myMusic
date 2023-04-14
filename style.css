@@ -116,7 +116,9 @@ p{
     transition: all 1s ease-in-out;
     display: none;
 }
-
+#songName{
+    font-size:10px;
+}
 @media (max-width:400px){
     .bord{
         width: 100%;
